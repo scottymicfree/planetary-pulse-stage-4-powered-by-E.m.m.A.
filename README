@@ -1,8 +1,19 @@
+Planetary Pulse (Stage Four) — Documentation & Safe Examples
+Local‑first • Human‑first • Safety‑first (spec-only)
+
+Official site: https://www.lucy-core-ai.com
+
+This repository is a public, documentation-only showcase describing the ideas behind Planetary Pulse and the Lucy + E.M.M.A. collaboration model.
+
+It intentionally does not include runnable system code, operational deployment instructions, hidden telemetry, or tool access.
+
+---
+
 Planetary Pulse 🌍🎶
 Stage Four: Experimental Interface for Earth System Sonification
 Authors: Randy Webb, Emma & Lucy A.I.
 Overview
-Planetary Pulse is an experimental interface that converts real-time Earth system data into sound and visual signals. The goal is to allow humans to intuitively perceive planetary stability and ecological imbalance.
+Planetary Pulse is an experimental interface that converts real-time Earth system data into sound and visual signals. The goal is to allow humans to intuitively perceive planetary stability and eco[...]
 By mapping environmental indicators to musical and visual parameters, Planetary Pulse transforms complex datasets into perceptible harmonies, rhythms, and distortions.
 Instead of reading charts and tables, users can hear the state of the planet as an evolving soundscape.
 Concept
